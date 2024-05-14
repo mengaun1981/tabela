@@ -1,0 +1,17 @@
+th{
+    width: 60px;
+    
+    }
+    table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(255, 251, 0);
+    }
+    
+    td{
+    width: 250px;
+    color: black;
+    background-color: rgb(185, 255, 127);
+    }
+    
+    
